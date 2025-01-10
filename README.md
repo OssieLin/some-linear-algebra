@@ -39,3 +39,17 @@ $$
 \text{det}\begin{vmatrix} 1 & 2 \\ 
 4 & 5 \end{vmatrix}
 $$
+
+- Note:
+1. The area of the parallelgram formed by two vectors is the magnitude of their cross product(theta is the angle between $\vec{A}$ and $\vec{B}$):
+ 
+$$
+|\vec{A} \times \vec{B}| = |\vec{A}| \cdot |\vec{B}| \cdot \sin(\theta)
+$$
+
+
+2. The direction of the cross product is always perpendicular to the plane formed by two vectors
+     
+
+
+![Cross Product](https://raw.githubusercontent.com/OssieLin/some-linear-algebra/main/cross_product.png)
